@@ -1,2 +1,2 @@
 # task-manager-backend
-back-end framework and test for task manager system
+back-end framework (Spring Boot) for testing 
